@@ -1,0 +1,53 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: maroon;  
+  }  
+
+  header{
+   color: white;
+   margin:10px;
+   text-align:center;
+  }
+
+  button {   
+    background-color: black;   
+    width: 100%;  
+    color: white;   
+    padding: 15px;   
+    margin: 10px 0px;   
+    border: none;   
+    cursor: pointer;   
+   }    
+
+  form {   
+        
+       align-content: center;
+       margin: auto;
+    }      
+ 
+  input[type=text], input[type=password] {   
+        width: 50%;   
+        margin: auto;  
+        padding: 12px 20px;   
+        display: inline-block;   
+        border: 2px blueviolet;   
+        box-sizing: border-box;
+  }
+
+   button:hover {   
+   background: maroon; 
+  }   
+  .cancelbtn {   
+    width: auto;   
+    padding: 10px 18px;  
+    margin: 10px 5px;  
+  }   
+   
+  .container {   
+    padding: 20px;   
+    background-color: papayawhip;  
+    margin: auto;
+    width: 20%;
+    height: 50%;
+   
+  }   
